@@ -1,6 +1,6 @@
 # tcpdump Mind Map
 
-![tcpdumpMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/NetworkTools/tcpdump/tcpdump.png)
+![tcpdumpMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/Tools/tcpdump/tcpdump.png)
 
 ## Editing/Improving this Mind Map
 
