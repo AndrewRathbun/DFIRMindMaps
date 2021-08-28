@@ -1,0 +1,9 @@
+# RDP DFIR Mind Map
+
+![RDPDFIRMINDMAP](/'RDP DFIR.png')
+
+This is what KAPE's [!EZParser](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/!EZParser.mkape) Module processes as of August 2021. 
+
+## Editing/Improving this Mind Map
+
+Import the `.xmind` file into your favorite Mind Map-making software! Improve upon it and do a Pull Request to update the file here!
