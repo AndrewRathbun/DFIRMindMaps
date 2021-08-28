@@ -10,3 +10,4 @@ I'm studying for the GCIH right now, so I need motivation to create visual learn
 
 1. add PR template
 2. add more guidelines for contributions in README
+3. Create Mind Map for top level README
