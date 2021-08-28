@@ -1,6 +1,6 @@
 # !EZParser Module Mind Map
 
-![!EZParserModuleMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/KAPE/!EZParser\!EZParser.PNG)
+![!EZParserModuleMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/KAPE/KapeTriage/KapeTriage.png)
 
 This is what KAPE's [!EZParser](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/!EZParser.mkape) Module processes as of August 2021. 
 
