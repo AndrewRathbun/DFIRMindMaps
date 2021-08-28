@@ -1,6 +1,6 @@
 # RDP DFIR Mind Map
 
-![RDPDFIRMINDMAP](/'RDP DFIR.png')
+![RDPDFIRMINDMAP](./RDP_DFIR.png)
 
 This is what KAPE's [!EZParser](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/!EZParser.mkape) Module processes as of August 2021. 
 
