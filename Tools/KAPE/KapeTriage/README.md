@@ -1,5 +1,7 @@
 # KapeTriage Target Mind Map
 
+Author: Andrew Rathbun - [@bunsofwrath12](https://twitter.com/bunsofwrath12)
+
 ![KapeTriageTargetMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/Tools/KAPE/KapeTriage/KapeTriage.png)
 
 This is what KAPE's [KapeTriage](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Compound/KapeTriage.tkape) Target pulls as of August 2021.
