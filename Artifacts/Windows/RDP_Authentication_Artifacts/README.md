@@ -1,8 +1,8 @@
-# RDP DFIR Mind Map
+# RDP Athentications Artifacts Mind Map
 
 ![RDPDFIRMINDMAP](./RDP_DFIR.png)
 
-This is what KAPE's [!EZParser](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/!EZParser.mkape) Module processes as of August 2021. 
+This Maindmap represents different artifacts related to RDP authentication with NLA enabled or disabled to help collect and analyze forensic artifacts during DFIR engagments
 
 ## Editing/Improving this Mind Map
 
