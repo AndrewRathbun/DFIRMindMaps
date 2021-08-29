@@ -1,8 +1,8 @@
-# RDP Athentications Artifacts Mind Map
+# RDP Athentication Artifacts Mind Map
 
 ![RDPDFIRMINDMAP](./RDP_DFIR.png)
 
-This Mindmap represents different artifacts related to RDP authentication with NLA enabled or disabled to help collect and analyze forensic artifacts during DFIR engagments
+This Mindmap represents different artifacts related to RDP authentication with NLA enabled or disabled to help collect and analyze forensic artifacts during DFIR engagements
 
 ## Editing/Improving this Mind Map
 
