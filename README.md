@@ -4,9 +4,10 @@ This is a repository to centralize DFIR-related Mind Maps created with any Mind 
 
 ## Roadmap
 
-I'm studying for the GCIH right now, so I need motivation to create visual learning aids for myself. If I create them, they will end up here in PNG and `.xmind` format. 
+I'm studying for the GCIH right now, so I need motivation to create visual learning aids for myself. If I create them, they will end up here in PDF, PNG, and `.xmind` format. 
 
 ## TODO
 
 1. add PR template
 2. add more guidelines for contributions in README
+3. Create Mind Map for top level README

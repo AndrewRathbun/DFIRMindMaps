@@ -1,6 +1,6 @@
 # KapeTriage Target Mind Map
 
-![KapeTriageTargetMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/KAPE/KapeTriage/KapeTriage.png)
+![KapeTriageTargetMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/Tools/KAPE/KapeTriage/KapeTriage.png)
 
 This is what KAPE's [KapeTriage](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Compound/KapeTriage.tkape) Target pulls as of August 2021.
 
