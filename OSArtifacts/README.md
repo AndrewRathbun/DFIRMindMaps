@@ -1,3 +1,3 @@
-# Artifacts
+# OSArtifacts
 
-Any operating system can have a folder within `.\Artifacts`.
+Any operating system can have a folder within `.\OSArtifacts`.
