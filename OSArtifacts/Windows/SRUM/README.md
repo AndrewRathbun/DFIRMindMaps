@@ -1,6 +1,6 @@
 # SRUM Mind Map
 
-![SRUMMindMap](https://raw.githubusercontent.com/AndrewRathbun/DFIRMindMaps/main/OSArtifacts/Windows/SRUM/SRUM.png)
+![SRUMMindMap](https://raw.githubusercontent.com/AndrewRathbun/DFIRMindMaps/main/OSArtifacts/Windows/SRUM/SRUM%20(System%20Resource%20Usage%20Monitor).png)
 
 This Mindmap represents different artifacts related to the SRUM Database.
 
