@@ -21,6 +21,10 @@ I personally use [XMind](https://www.xmind.net/) as I like how it has a Desktop 
 
 I'm studying for the GCIH right now, so I need motivation to create visual learning aids for myself. If I create them, they will end up here in PDF, PNG, and `.xmind` format. 
 
+## Other DFIR Mind Map GitHub Repositories
+
+ * [nasbench's Mind Maps](https://github.com/nasbench/MindMaps)
+
 ## TODO
 
 1. Create Mind Map for top level README
