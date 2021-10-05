@@ -2,7 +2,7 @@
 
 Author: Andrew Rathbun - [@bunsofwrath12](https://twitter.com/bunsofwrath12)
 
-![$JMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/FileSystems/NTFS/%24J/UsnJrnlDollarSignJ.png)
+![$JMindMap](https://github.com/AndrewRathbun/DFIRMindMaps/blob/main/FileSystems/NTFS/%24J/UsnJrnlDollarSignJ.png)
 
 ## Editing/Improving this Mind Map
 

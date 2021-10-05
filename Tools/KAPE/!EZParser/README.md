@@ -2,7 +2,7 @@
 
 Author: Andrew Rathbun - [@bunsofwrath12](https://twitter.com/bunsofwrath12)
 
-![!EZParserModuleMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/Tools/KAPE/!EZParser/!EZParser.png)
+![!EZParserModuleMindMap](https://github.com/AndrewRathbun/DFIRMindMaps/blob/main/Tools/KAPE/!EZParser/!EZParser.png)
 
 This is what KAPE's [!EZParser](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/!EZParser.mkape) Module processes as of August 2021. 
 

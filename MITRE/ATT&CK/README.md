@@ -4,7 +4,7 @@
 
 Author: Andrew Rathbun - [@bunsofwrath12](https://twitter.com/bunsofwrath12)
 
-![MITREATT&CKMindMap](https://github.com/rathbuna/DFIRMindMaps/blob/main/MITRE/ATT%26CK/MITRE_ATT%26CK.png)
+![MITREATT&CKMindMap](https://github.com/AndrewRathbun/DFIRMindMaps/blob/main/MITRE/ATT%26CK/MITRE_ATT%26CK.png)
 
 ## Editing/Improving this Mind Map
 
