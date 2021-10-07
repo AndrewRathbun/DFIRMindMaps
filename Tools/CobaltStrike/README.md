@@ -2,7 +2,9 @@
 
 Author: Korstiaan Stam - [InvictusIncidentResponse](https://twitter.com/InvictusIR)
 
-![CobaltStrikeMindMap](linktoPNGgoeshere)
+![CobaltStrikeMindMap](https://raw.githubusercontent.com/AndrewRathbun/DFIRMindMaps/main/Tools/CobaltStrike/CobaltStrike.png)
+
+Source: https://github.com/invictus-ir/cobaltstrike
 
 ## Editing/Improving this Mind Map
 
