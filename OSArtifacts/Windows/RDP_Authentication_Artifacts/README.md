@@ -1,4 +1,4 @@
-# RDP Athentication Artifacts Mind Map
+# RDP Athentication Artifacts Mind Map created by [@Cyb3rSn0rlax](https://twitter.com/Cyb3rSn0rlax)
 
 ![RDPDFIRMINDMAP](./RDP_DFIR.png)
 
