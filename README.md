@@ -24,7 +24,3 @@ I'm studying for the GCIH right now, so I need motivation to create visual learn
 ## Other DFIR Mind Map GitHub Repositories
 
  * [nasbench's Mind Maps](https://github.com/nasbench/MindMaps)
-
-## TODO
-
-1. Create Mind Map for top level README
