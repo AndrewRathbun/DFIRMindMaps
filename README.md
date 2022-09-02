@@ -24,3 +24,4 @@ I'm studying for the GCIH right now, so I need motivation to create visual learn
 ## Other DFIR Mind Map GitHub Repositories
 
  * [nasbench's Mind Maps](https://github.com/nasbench/MindMaps)
+ * [Microsoft Event Log Mind Maps](https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap)
